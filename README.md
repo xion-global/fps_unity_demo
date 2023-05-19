@@ -2,6 +2,11 @@
 
 This guide will show you how to integrate ThirdWeb SDK and Xion Pay APIs or .net SDK into an existing FPS Microgame template in Unity. This setup enables one-click crypto payments and a mechanism for instant digital asset delivery upon successful transactions.
 
+<p align="center"> <img width="1792" alt="Screenshot 2023-05-19 at 12 14 35" src="https://github.com/xion-global/fps_unity_demo/assets/67911815/758e48d7-623d-4aab-b518-2d276d19e4d2"></p>
+
+
+[Click here to watch how a one-click USDT Polygon payment works with the Xion Pay APIs in this Unity FPS Demo](https://twitter.com/xionglobal/status/1659499160905691136?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)
+
 # Requirements:
 - Unity 2019.4.16f1 or later
 - FPS Microgame template: [FPS Microgame](https://learn.unity.com/project/fps-template)
